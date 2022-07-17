@@ -32,5 +32,5 @@ _show [my/server] mining statistics*_<br />
 _enable/disable mining notifications*_<br />
 
 ---
-#Control-Panel view
+# Control-Panel view
 
