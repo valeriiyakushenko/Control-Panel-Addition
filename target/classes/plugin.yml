@@ -1,0 +1,26 @@
+name: Control-Panel-Addition
+version: '1.0'
+main: servercontrolpanel.ControlPanelAddition
+api-version: 1.19
+authors: [ PolKiloPelmeniy ]
+description: Server-Control-Panel-Addition
+website: https://github.com/valerayakushenko/Minecraft-Server-Control-Panel
+commands:
+  mining:
+    description: Server-Control-Panel-Addition Mining-Statistic
+    usage: /mining
+  sethome:
+    description: Server-Control-Panel-Addition Set-Home
+    usage: /sethome
+  home:
+    description: Server-Control-Panel-Addition Home-Teleport
+    usage: /home
+  warp:
+    description: Server-Control-Panel-Addition Warp-Teleport
+    usage: /warp
+  setwarp:
+    description: Server-Control-Panel-Addition Set-Warp
+    usage: /setwarp
+  delwarp:
+    description: Server-Control-Panel-Addition Delete-Warp
+    usage: /delwarp
