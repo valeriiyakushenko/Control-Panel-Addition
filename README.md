@@ -34,3 +34,6 @@ _enable/disable mining notifications*_<br />
 ---
 # Control-Panel view
 
+![](documentation_images/statistic_screen.png)<br />
+_You can see server statistics at Server-Contol-Panel*_
+
