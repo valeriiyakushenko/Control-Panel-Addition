@@ -4,9 +4,11 @@
 # Commands
 ### Home commands:
 >/sethome<br />
-_set your personal home*_
+
+_set your personal home*_<br />
 >/home<br />
-_teleports you to your home*_
+
+_teleports you to your home*_<br />
 ### Warp commands:
 >/setwarp [warp name]<br />
 _set your personal home*_
