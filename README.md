@@ -1,5 +1,5 @@
 # Control-Panel-Addition plugin for Control Panel.
-#### For Spigot and Bukkit 1.19
+### For Spigot and Bukkit 1.19
 
 # Commands
 ### Home commands:
