@@ -14,7 +14,23 @@ _teleports you to home*_<br />
 ### Warp commands:
 >/setwarp [warp name]<br />
 
-_creating a warp [warp name]*_<br />
+_creating warp [warp name]*_<br />
 >/warp [warp name]<br />
 
 _teleports you to warp [warp name]*_<br />
+>/delwarp [warp name]<br />
+
+_delete warp [warp name]*_<br />
+
+---
+### Mining commands:
+>/mining show [my/server]<br />
+
+_show [my/server] mining statistics*_<br />
+>/mining messages [true/false]<br />
+
+_enable/disable mining notifications*_<br />
+
+---
+#Control-Panel view
+
