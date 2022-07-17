@@ -3,10 +3,10 @@
 
 # Commands
 ### Home commands:
->/sethome
+>/sethome<br />
 _set your personal home*_
->/home
+>/home<br />
 _teleports you to your home*_
 ### Warp commands:
->/setwarp [warp name]
+>/setwarp [warp name]<br />
 _set your personal home*_
