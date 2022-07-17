@@ -9,6 +9,7 @@ _set your personal home*_<br />
 >/home<br />
 
 _teleports you to home*_<br />
+---
 ### Warp commands:
 >/setwarp [warp name]<br />
 
